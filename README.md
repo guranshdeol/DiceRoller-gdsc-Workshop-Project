@@ -3,7 +3,9 @@
 
 ---
 
-This Project is a Simple DiceRoller app,made using kotlin language.This app was built as a submission for ***Android Study Jams 2022 at Chitkara University***
+This Project is a Simple DiceRoller app,made using kotlin language.This app was built as a submission for ***Android Study Jams 2022 at Chitkara University.***
+
+***Android Study Jams 2022*** was a session conducted by Google Developer Student Club, in which we taught about Basics of KOTLIN language and the Dice Roller app was the Project to be submitted
 
 # Goals
 
