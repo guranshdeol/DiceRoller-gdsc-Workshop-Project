@@ -34,5 +34,11 @@ This Project is a Simple DiceRoller app,made using kotlin language.This app was 
 
 <img src="2110991896-Guransh-DiceRoller.jpg" width="250" height="450"/>
 
+> Working
+---
+
+https://user-images.githubusercontent.com/91736425/148794345-e72da018-eddf-40e6-b326-162b97f5a689.mp4
+
+
 ---
 
