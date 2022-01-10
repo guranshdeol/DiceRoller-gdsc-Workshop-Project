@@ -32,7 +32,7 @@ This Project is a Simple DiceRoller app,made using kotlin language.This app was 
 
 ---
 
-<img src="2110991896-Guransh.jpg" width="250" height="450"/>
-https://github.com/guranshdeol/DiceRoller-gdsc-Workshop-Project/blob/main/2110991896-Guransh-DiceRoller-Working.mp4
+<img src="2110991896-Guransh-DiceRoller.jpg" width="250" height="450"/>
+
 ---
 
